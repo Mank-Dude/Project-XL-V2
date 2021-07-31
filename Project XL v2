@@ -883,7 +883,7 @@ Title = "Credits";
 Text = "CharWar Serverhops";
 })
 local function copyDiscord()
-    setclipboard("https://discord.gg/jdt5z8T5ws")
+    setclipboard("https://discord.gg/t2ubrjuT")
 end
 
 local StarterGui = game:GetService("StarterGui")
@@ -906,7 +906,7 @@ function bindable.OnInvoke(response)
 end
 
 StarterGui:SetCore("SendNotification", {
-	Title = "V.G Hub Discord",
+	Title = "Muz Hub Discord",
 	Text = "Copy to clipboard?",
 	Duration = 5,
 	Callback = bindable,
